@@ -1,0 +1,29 @@
+{
+  "name": "login-system-react-nodejs-jwt",
+  "version": "1.0.0",
+  "description": "Authentication system using JWT",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabiAcea/login-system-react-nodejs-jwt.git"
+  },
+  "keywords": [
+    "login",
+    "authentication",
+    "javascript",
+    "react",
+    "nodejs",
+    "jwt"
+  ],
+  "author": "Gabi.A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabiAcea/login-system-react-nodejs-jwt/issues"
+  },
+  "homepage": "https://github.com/GabiAcea/login-system-react-nodejs-jwt#readme"
+}
